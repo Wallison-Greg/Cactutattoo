@@ -475,6 +475,7 @@ nav a:hover{
     height: 400px;
     background-image: url('../img/map.png');
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 
