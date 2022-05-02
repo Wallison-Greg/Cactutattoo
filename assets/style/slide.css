@@ -1,0 +1,64 @@
+@keyframes banner{
+    25%{
+        background-image: url('../img/banner/principal/bn_principal_17.png');
+    }
+    50%{
+        background-image: url('../img/banner/principal/bn_principal_22.png');
+    }
+    75%{
+        background-image: url('../img/banner/principal/bn_principal_8.png');
+    }
+    100%{
+        background-image: url('../img/banner/principal/bn_principal_7.png');
+    }
+
+}
+
+@keyframes att{
+    25%{
+        background-image: url('../img/banner/principal/bn_tattoo_15.png');
+    }
+    50%{
+        background-image: url('../img/banner/thainara/bn_tt_13.png');
+    }
+    75%{
+        background-image: url('../img/banner/principal/bn_tattoo_12.png');
+    }
+    100%{
+        background-image: url('../img/banner/thainara/bn_tt_9.png');
+    }
+}
+
+@keyframes tattoo{
+    25%{
+        background-image: url('../img/banner/principal/bn_tattoo_4.png');
+    }
+    50%{
+        background-image: url('../img/banner/principal/bn_tattoo_18.png');
+    }
+    75%{
+        background-image: url('../img/banner/principal/bn_tattoo_14.png');
+        background-position: center bottom;
+    }
+    100%{
+        background-image: url('../img/banner/principal/bn_tattoo_7.png');
+    }
+}
+
+@keyframes tattoo_cover{
+    25%{
+        background-image: url('../img/banner/cover/bn_tattoo_cover_3.jpg');
+        background-position: center bottom;
+    }
+    50%{
+        background-image: url('../img/banner/cover/bn_tattoo_cover.png');
+        background-repeat: no-repeat;
+    }
+    75%{
+        background-image: url('../img/banner/cover/bn_tattoo_cover_2.png');
+        background-position: center center;
+    }
+    100%{
+        background-image: url('../img/banner/cover/bn_tattoo_cover_4.jpg');
+    }
+}
